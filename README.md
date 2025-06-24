@@ -1,5 +1,5 @@
 ## Datalake in AWS S3 with Apache Spark
----
+
 This project builds an ETL pipeline that extracts songs data from aws s3, processes that data within Spark SQL and loads the data back to S3 as a set of persistent tables.This will allow the analytical team to understand which songs users are listening to.
 
 ---
