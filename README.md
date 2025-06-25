@@ -7,7 +7,7 @@ This project builds an ETL pipeline that extracts songs data from aws s3, proces
 ⭐ **Project Dependencies**: 
 
 - ♻️  Python 3.13.5
-- ♻️  Spark 3.5.6 (built with hadoop 3.3.4, winttils 3.3.6)
+- ♻️  Spark 3.5.6 (built with hadoop 3.3.4, winutils 3.3.6)
 - ♻️  Java 8.0.202.5
 - ♻️  boto3
 - ♻️  hadoop-aws-3.3.4.jar
