@@ -23,6 +23,8 @@ This project builds an ETL pipeline that extracts songs data from aws s3, proces
 ---
 ⭐ **Project architecture**: 
 
+ETL project structure is below:
+
 ![Reference Image](/resources/flowchart.png)
 
 ---
